@@ -1,0 +1,11 @@
+{
+  "name": "teste-fron",
+  "version": "1.0.0",
+  "description": "Teste de conhecimento front-end",
+  "main": "index.js",
+  "dependencies": {
+    "bootstrap": "^4.6.0",
+    "jquery": "^3.5.1",
+    "popper.js": "^1.16.1"
+  }
+}
